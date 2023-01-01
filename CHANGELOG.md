@@ -1,0 +1,74 @@
+# Changelog
+
+## Unreleased
+- 2025-05-23: feat(config): update package lock
+- 2025-06-15: fix(db): remove dead code
+- 2025-07-02: Bump patch version
+- 2025-06-30: Update environment config
+- 2025-07-10: Refactor data loader
+- 2025-07-08: Adjust API response format
+- 2025-07-21: test(middleware): remove dead code
+- 2025-08-02: test(db): update env example
+- 2025-08-01: Update README
+- 2025-07-29: fix(routes): add validation middleware
+- 2025-08-17: refactor(ui): add rate limiting
+- 2025-08-29: Improve error handling
+- 2025-09-02: chore(auth): fix CORS headers
+- 2025-09-02: chore(routes): add session handling
+- 2025-08-31: perf(ui): update cache TTL
+- 2025-09-20: Clean up unused imports
+- 2025-09-17: Update dependencies
+- 2025-09-15: Adjust API response format
+- 2025-09-29: perf(db): fix memory leak in worker
+- 2025-10-06: chore(middleware): correct response status codes
+- 2025-10-13: Fix broken unit test
+- 2025-10-12: Fix broken unit test
+- 2025-11-05: chore(config): add session handling
+- 2025-11-21: Add missing null check
+- 2025-11-18: test(core): improve error messages
+- 2025-11-17: Fix broken unit test
+- 2025-11-24: Update dependencies
+- 2025-11-30: docs(api): add validation middleware
+- 2025-12-10: test(api): correct response status codes
+- 2025-12-28: refactor(routes): fix pagination offset
+- 2026-01-07: feat(utils): handle empty payload
+- 2026-01-17: chore(utils): update package lock
+- 2026-01-15: perf(api): sync schema changes
+- 2026-01-24: perf(ui): sync schema changes
+- 2026-01-22: Patch security issue
+- 2026-01-19: chore(ui): update env example
+- 2026-02-02: Clean up unused imports
+- 2026-02-01: refactor(routes): sync schema changes
+- 2026-02-12: feat(core): resolve timeout on slow networks
+- 2026-02-10: fix(api): handle empty payload
+- 2026-02-20: feat(utils): remove dead code
+- 2026-02-18: chore(middleware): sync schema changes
+- 2026-02-16: chore(config): update env example
+- 2026-02-27: docs(utils): update env example
+- 2026-03-20: refactor(utils): add validation middleware
+- 2026-03-25: chore(db): improve error messages
+- 2026-03-24: test(routes): improve error messages
+- 2026-03-23: chore(middleware): fix CORS headers
+- 2026-04-03: refactor(routes): resolve timeout on slow networks
+- 2026-03-31: Add missing null check
+- 2026-04-07: fix(db): improve error messages
+- 2026-05-01: Sync lockfile
+- 2026-04-28: Improve code readability
+- 2026-05-09: style(config): handle empty payload
+- 2026-05-12: feat(auth): fix pagination offset
+- 2026-05-10: Adjust API response format
+- 2026-05-19: style(middleware): add session handling
+- 2026-05-25: Fix date parsing bug
+- 2026-05-24: Fix race condition
+- 2026-06-04: Clean up unused imports
+- 2026-06-02: Patch security issue
+- 2026-05-31: chore(middleware): update env example
+- 2025-07-29: refactor(core): improve error messages
+- 2025-09-17: feat(utils): add rate limiting
+- 2025-10-16: chore(auth): fix memory leak in worker
+- 2025-10-27: feat(utils): update package lock
+- 2025-12-05: Optimize query performance
+- 2026-02-05: Bump patch version
+- 2026-05-01: perf(ui): improve error messages
+- 2026-05-05: Handle empty state
+
