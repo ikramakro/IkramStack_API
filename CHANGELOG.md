@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2023-01-07: fix(ui): add rate limiting
 - 2023-01-06: Minor code cleanup
 - 2025-05-23: feat(config): update package lock
 - 2025-06-15: fix(db): remove dead code
