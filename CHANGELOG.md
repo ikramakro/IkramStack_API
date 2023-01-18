@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-01-18: docs(core): update package lock
 - 2023-01-16: refactor(middleware): add validation middleware
 - 2023-01-07: fix(ui): add rate limiting
 - 2023-01-06: Minor code cleanup
