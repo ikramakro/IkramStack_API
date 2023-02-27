@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-02-27: Patch security issue
 - 2023-02-26: style(api): fix memory leak in worker
 - 2023-02-14: Handle empty state
 - 2023-01-28: docs(routes): fix CORS headers
