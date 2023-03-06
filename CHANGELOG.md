@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-03-06: Bump patch version
 - 2023-02-28: refactor(core): fix CORS headers
 - 2023-02-27: Patch security issue
 - 2023-02-26: style(api): fix memory leak in worker
