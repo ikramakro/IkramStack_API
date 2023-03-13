@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-03-13: Update type definitions
 - 2023-03-08: perf(ui): improve error messages
 - 2023-03-06: Bump patch version
 - 2023-02-28: refactor(core): fix CORS headers
