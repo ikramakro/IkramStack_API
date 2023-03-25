@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-03-25: feat(config): add validation middleware
 - 2023-03-20: docs(ui): add validation middleware
 - 2023-03-13: Update type definitions
 - 2023-03-08: perf(ui): improve error messages
