@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-04-05: Add input sanitization
 - 2023-03-31: Resolve merge conflict
 - 2023-03-25: feat(config): add validation middleware
 - 2023-03-20: docs(ui): add validation middleware
