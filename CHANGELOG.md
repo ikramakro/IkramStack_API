@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-04-16: style(config): remove dead code
 - 2023-04-16: Fix date parsing bug
 - 2023-04-06: fix(middleware): add rate limiting
 - 2023-04-05: Add input sanitization
