@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-04-17: refactor(utils): fix pagination offset
 - 2023-04-16: style(config): remove dead code
 - 2023-04-16: Fix date parsing bug
 - 2023-04-06: fix(middleware): add rate limiting
