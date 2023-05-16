@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-05-16: feat(middleware): improve error messages
 - 2023-05-01: Adjust API response format
 - 2023-04-26: docs(config): fix pagination offset
 - 2023-04-20: Bump patch version
