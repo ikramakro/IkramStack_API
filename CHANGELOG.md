@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-05-20: perf(auth): add session handling
 - 2023-05-18: perf(db): resolve timeout on slow networks
 - 2023-05-16: feat(middleware): improve error messages
 - 2023-05-01: Adjust API response format
