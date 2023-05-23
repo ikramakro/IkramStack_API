@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-05-22: Clean up unused imports
 - 2023-05-22: perf(auth): handle empty payload
 - 2023-05-20: perf(auth): add session handling
 - 2023-05-18: perf(db): resolve timeout on slow networks
