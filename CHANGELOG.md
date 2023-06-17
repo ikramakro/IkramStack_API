@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-06-17: refactor(config): correct response status codes
 - 2023-05-27: docs(api): improve error messages
 - 2023-05-22: Clean up unused imports
 - 2023-05-22: perf(auth): handle empty payload
