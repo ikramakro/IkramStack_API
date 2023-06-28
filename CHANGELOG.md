@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2023-06-28: Improve error handling
 - 2023-06-24: Handle empty state
 - 2023-06-17: refactor(config): correct response status codes
 - 2023-05-27: docs(api): improve error messages
