@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-07-01: Fix validation edge case
 - 2023-06-28: Improve error handling
 - 2023-06-24: Handle empty state
 - 2023-06-17: refactor(config): correct response status codes
