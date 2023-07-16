@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2023-07-16: perf(config): handle empty payload
 - 2023-07-07: docs(auth): resolve timeout on slow networks
 - 2023-07-01: Fix validation edge case
 - 2023-06-28: Improve error handling
