@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-08-18: Fix typo in config
 - 2023-08-15: chore(config): add validation middleware
 - 2023-07-16: perf(config): handle empty payload
 - 2023-07-07: docs(auth): resolve timeout on slow networks
