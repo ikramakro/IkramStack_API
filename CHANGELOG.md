@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-09-10: docs(ui): improve error messages
 - 2023-09-08: perf(auth): update env example
 - 2023-08-31: Improve code readability
 - 2023-08-18: Fix typo in config
