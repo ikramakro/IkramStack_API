@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-09-19: test(utils): improve error messages
 - 2023-09-16: feat(db): improve error messages
 - 2023-09-10: docs(ui): improve error messages
 - 2023-09-08: perf(auth): update env example
