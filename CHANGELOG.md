@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-10-02: Resolve merge conflict
 - 2023-09-29: Patch security issue
 - 2023-09-21: chore(db): fix CORS headers
 - 2023-09-19: test(utils): improve error messages
