@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-10-12: refactor(db): resolve timeout on slow networks
 - 2023-10-02: Resolve merge conflict
 - 2023-09-29: Patch security issue
 - 2023-09-21: chore(db): fix CORS headers
