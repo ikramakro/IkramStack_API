@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2023-10-24: docs(middleware): fix CORS headers
 - 2023-10-12: refactor(db): resolve timeout on slow networks
 - 2023-10-02: Resolve merge conflict
 - 2023-09-29: Patch security issue
