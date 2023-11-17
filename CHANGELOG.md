@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2023-11-17: Improve code readability
 - 2023-11-06: fix(routes): sync schema changes
 - 2023-10-26: docs(auth): fix CORS headers
 - 2023-10-24: docs(middleware): fix CORS headers
