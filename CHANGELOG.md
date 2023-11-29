@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-11-29: refactor(db): handle empty payload
 - 2023-11-17: Improve code readability
 - 2023-11-06: fix(routes): sync schema changes
 - 2023-10-26: docs(auth): fix CORS headers
