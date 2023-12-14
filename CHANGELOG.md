@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-12-14: refactor(core): handle empty payload
 - 2023-12-06: fix(core): resolve timeout on slow networks
 - 2023-11-29: refactor(db): handle empty payload
 - 2023-11-17: Improve code readability
