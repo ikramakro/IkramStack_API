@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-01-05: chore(api): improve error messages
 - 2023-12-29: Add missing null check
 - 2023-12-27: style(core): handle empty payload
 - 2023-12-14: refactor(core): handle empty payload
