@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-01-31: Minor code cleanup
 - 2024-01-27: Handle empty state
 - 2024-01-14: Resolve merge conflict
 - 2024-01-05: chore(api): improve error messages
