@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-03-03: style(db): update cache TTL
 - 2024-02-29: Fix typo in config
 - 2024-02-06: Improve code readability
 - 2024-02-04: docs(api): add session handling
