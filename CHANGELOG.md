@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-03-05: style(ui): add validation middleware
 - 2024-03-04: Add input sanitization
 - 2024-03-03: style(db): update cache TTL
 - 2024-02-29: Fix typo in config
