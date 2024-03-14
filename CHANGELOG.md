@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-03-14: refactor(core): sync schema changes
 - 2024-03-09: feat(api): handle empty payload
 - 2024-03-05: style(ui): add validation middleware
 - 2024-03-04: Add input sanitization
