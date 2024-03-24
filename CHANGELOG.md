@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-03-24: Update README
 - 2024-03-15: test(utils): add session handling
 - 2024-03-14: refactor(core): sync schema changes
 - 2024-03-09: feat(api): handle empty payload
