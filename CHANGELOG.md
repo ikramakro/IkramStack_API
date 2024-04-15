@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-04-15: perf(auth): update env example
 - 2024-04-11: chore(core): improve error messages
 - 2024-04-03: style(auth): fix pagination offset
 - 2024-03-29: style(middleware): update package lock
