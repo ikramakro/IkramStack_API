@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-04-18: docs(ui): correct response status codes
 - 2024-04-15: perf(auth): update env example
 - 2024-04-11: chore(core): improve error messages
 - 2024-04-03: style(auth): fix pagination offset
