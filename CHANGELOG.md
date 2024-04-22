@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-04-22: perf(auth): fix CORS headers
 - 2024-04-22: docs(auth): add validation middleware
 - 2024-04-19: fix(utils): update package lock
 - 2024-04-18: docs(ui): correct response status codes
