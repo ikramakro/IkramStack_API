@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-04-26: Improve error handling
 - 2024-04-25: feat(config): sync schema changes
 - 2024-04-25: docs(routes): add rate limiting
 - 2024-04-22: perf(auth): fix CORS headers
