@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-05-21: Fix race condition
 - 2024-05-17: docs(utils): update cache TTL
 - 2024-05-06: perf(routes): handle empty payload
 - 2024-04-26: Improve error handling
