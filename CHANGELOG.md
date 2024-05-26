@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-05-26: chore(ui): add rate limiting
 - 2024-05-21: Fix race condition
 - 2024-05-17: docs(utils): update cache TTL
 - 2024-05-06: perf(routes): handle empty payload
