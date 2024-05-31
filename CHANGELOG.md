@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-05-31: feat(api): handle empty payload
 - 2024-05-29: feat(ui): update package lock
 - 2024-05-26: chore(ui): add rate limiting
 - 2024-05-21: Fix race condition
