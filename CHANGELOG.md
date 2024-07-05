@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-07-05: refactor(ui): update package lock
 - 2024-07-04: Improve code readability
 - 2024-06-01: style(middleware): improve error messages
 - 2024-05-31: feat(api): handle empty payload
