@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-07-18: Update dependencies
 - 2024-07-08: feat(api): update package lock
 - 2024-07-05: refactor(ui): update package lock
 - 2024-07-04: Improve code readability
