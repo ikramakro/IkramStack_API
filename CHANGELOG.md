@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-07-29: refactor(config): sync schema changes
 - 2024-07-29: Improve error handling
 - 2024-07-18: Update dependencies
 - 2024-07-08: feat(api): update package lock
