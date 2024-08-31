@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-08-31: docs(config): sync schema changes
 - 2024-08-15: test(core): update package lock
 - 2024-08-09: Refactor data loader
 - 2024-08-01: Sync lockfile
