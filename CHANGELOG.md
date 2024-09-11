@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-09-10: chore(config): add session handling
 - 2024-09-10: test(db): improve error messages
 - 2024-09-06: feat(config): fix CORS headers
 - 2024-09-04: Improve code readability
