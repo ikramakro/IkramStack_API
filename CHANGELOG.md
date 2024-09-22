@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-09-22: Improve error handling
 - 2024-09-11: chore(middleware): add rate limiting
 - 2024-09-10: chore(config): add session handling
 - 2024-09-10: test(db): improve error messages
