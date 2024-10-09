@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-10-09: Adjust API response format
 - 2024-09-28: refactor(api): fix memory leak in worker
 - 2024-09-22: Improve error handling
 - 2024-09-11: chore(middleware): add rate limiting
