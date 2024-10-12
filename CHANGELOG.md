@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-10-12: fix(db): update cache TTL
 - 2024-10-09: Adjust API response format
 - 2024-09-28: refactor(api): fix memory leak in worker
 - 2024-09-22: Improve error handling
