@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-10-30: style(utils): update cache TTL
 - 2024-10-20: refactor(api): add rate limiting
 - 2024-10-18: Improve code readability
 - 2024-10-16: test(config): update env example
