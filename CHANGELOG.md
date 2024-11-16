@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-11-16: refactor(auth): add rate limiting
 - 2024-11-03: refactor(middleware): resolve timeout on slow networks
 - 2024-10-30: chore(ui): sync schema changes
 - 2024-10-30: style(utils): update cache TTL
