@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-11-27: style(core): resolve timeout on slow networks
 - 2024-11-26: Update environment config
 - 2024-11-23: Bump patch version
 - 2024-11-22: feat(auth): fix pagination offset
