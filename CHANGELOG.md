@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-10: perf(routes): update cache TTL
 - 2025-01-05: fix(routes): sync schema changes
 - 2024-12-28: chore(utils): fix CORS headers
 - 2024-12-19: Fix broken unit test
