@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-12: style(core): add rate limiting
 - 2025-01-11: fix(ui): add validation middleware
 - 2025-01-10: perf(routes): update cache TTL
 - 2025-01-05: fix(routes): sync schema changes
