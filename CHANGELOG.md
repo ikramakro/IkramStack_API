@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-15: fix(db): add session handling
 - 2025-01-15: perf(config): remove dead code
 - 2025-01-12: style(core): add rate limiting
 - 2025-01-11: fix(ui): add validation middleware
