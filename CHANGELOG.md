@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-20: chore(routes): improve error messages
 - 2025-01-15: fix(db): add session handling
 - 2025-01-15: perf(config): remove dead code
 - 2025-01-12: style(core): add rate limiting
