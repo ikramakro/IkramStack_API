@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-28: Handle empty state
 - 2025-01-25: perf(db): fix CORS headers
 - 2025-01-22: Update README
 - 2025-01-20: chore(routes): improve error messages
