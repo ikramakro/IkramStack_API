@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-03: test(auth): fix pagination offset
 - 2025-01-28: Handle empty state
 - 2025-01-25: perf(db): fix CORS headers
 - 2025-01-22: Update README
