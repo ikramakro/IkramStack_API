@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-14: Fix date parsing bug
 - 2025-02-14: style(ui): add rate limiting
 - 2025-02-11: Improve error handling
 - 2025-02-03: test(auth): fix pagination offset
