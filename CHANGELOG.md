@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-21: Improve code readability
 - 2025-02-20: perf(api): add rate limiting
 - 2025-02-17: Add missing null check
 - 2025-02-17: perf(routes): add rate limiting
