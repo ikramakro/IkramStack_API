@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-28: Bump patch version
 - 2025-02-25: Update README
 - 2025-02-21: Improve code readability
 - 2025-02-20: perf(api): add rate limiting
