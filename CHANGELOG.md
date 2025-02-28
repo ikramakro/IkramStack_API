@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-28: Fix date parsing bug
 - 2025-02-28: Bump patch version
 - 2025-02-28: Bump patch version
 - 2025-02-25: Update README
