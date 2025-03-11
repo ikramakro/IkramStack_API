@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-03-11: perf(utils): update env example
 - 2025-03-05: feat(api): handle empty payload
 - 2025-02-28: Fix date parsing bug
 - 2025-02-28: Bump patch version
