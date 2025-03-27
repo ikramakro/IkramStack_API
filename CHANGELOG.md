@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-03-27: feat(ui): update cache TTL
 - 2025-03-20: Add missing null check
 - 2025-03-17: feat(utils): correct response status codes
 - 2025-03-11: perf(utils): update env example
