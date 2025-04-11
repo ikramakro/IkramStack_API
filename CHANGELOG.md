@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-11: test(routes): fix pagination offset
 - 2025-04-07: perf(utils): remove dead code
 - 2025-04-07: perf(api): resolve timeout on slow networks
 - 2025-03-27: feat(ui): update cache TTL
