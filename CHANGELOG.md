@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-16: Refactor data loader
 - 2025-04-12: fix(core): add validation middleware
 - 2025-04-12: fix(api): add validation middleware
 - 2025-04-11: test(routes): fix pagination offset
