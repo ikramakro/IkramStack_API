@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-18: perf(db): resolve timeout on slow networks
 - 2025-04-18: chore(utils): add rate limiting
 - 2025-04-16: Refactor data loader
 - 2025-04-12: fix(core): add validation middleware
