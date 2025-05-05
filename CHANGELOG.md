@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-05: test(utils): improve error messages
 - 2025-05-02: fix(ui): add validation middleware
 - 2025-04-23: docs(db): fix memory leak in worker
 - 2025-04-18: perf(db): resolve timeout on slow networks
