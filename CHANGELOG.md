@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-22: perf(middleware): fix CORS headers
 - 2025-05-06: docs(core): fix memory leak in worker
 - 2025-05-05: test(utils): improve error messages
 - 2025-05-02: fix(ui): add validation middleware
