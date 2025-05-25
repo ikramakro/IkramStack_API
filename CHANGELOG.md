@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-25: style(core): improve error messages
 - 2025-05-24: docs(utils): fix memory leak in worker
 - 2025-05-22: perf(middleware): fix CORS headers
 - 2025-05-06: docs(core): fix memory leak in worker
