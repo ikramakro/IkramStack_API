@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-29: fix(auth): fix pagination offset
 - 2025-05-25: chore(utils): update env example
 - 2025-05-25: style(core): improve error messages
 - 2025-05-24: docs(utils): fix memory leak in worker
