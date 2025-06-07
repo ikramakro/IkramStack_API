@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-07: perf(utils): update cache TTL
 - 2025-06-05: docs(db): update env example
 - 2025-06-04: style(core): update package lock
 - 2025-06-03: feat(utils): improve error messages
