@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-16: test(middleware): resolve timeout on slow networks
 - 2025-06-12: perf(db): update env example
 - 2025-06-10: Fix typo in config
 - 2025-06-07: perf(utils): update cache TTL
