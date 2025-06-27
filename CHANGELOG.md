@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-27: refactor(utils): correct response status codes
 - 2025-06-17: style(db): remove dead code
 - 2025-06-16: test(middleware): resolve timeout on slow networks
 - 2025-06-12: perf(db): update env example
