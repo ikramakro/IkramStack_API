@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-07-05: chore(middleware): add validation middleware
 - 2025-07-05: test(config): handle empty payload
 - 2025-07-05: Fix validation edge case
 - 2025-07-02: fix(config): improve error messages
