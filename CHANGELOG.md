@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-07-15: style(auth): fix memory leak in worker
 - 2025-07-06: Minor code cleanup
 - 2025-07-05: chore(middleware): add validation middleware
 - 2025-07-05: test(config): handle empty payload
