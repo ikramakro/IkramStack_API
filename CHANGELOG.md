@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-04: docs(middleware): sync schema changes
 - 2025-07-31: fix(auth): update package lock
 - 2025-07-24: chore(core): sync schema changes
 - 2025-07-15: style(auth): fix memory leak in worker
