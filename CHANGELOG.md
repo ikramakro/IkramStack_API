@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-11: style(api): fix CORS headers
 - 2025-08-04: Fix date parsing bug
 - 2025-08-04: docs(middleware): sync schema changes
 - 2025-07-31: fix(auth): update package lock
