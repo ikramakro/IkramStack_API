@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-20: perf(utils): update env example
 - 2025-08-15: test(core): remove dead code
 - 2025-08-13: test(routes): add session handling
 - 2025-08-11: style(api): fix CORS headers
