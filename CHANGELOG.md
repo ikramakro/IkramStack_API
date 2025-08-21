@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-21: Improve error handling
 - 2025-08-21: Bump patch version
 - 2025-08-20: perf(utils): update env example
 - 2025-08-15: test(core): remove dead code
