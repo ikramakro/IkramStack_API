@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-22: chore(ui): fix pagination offset
 - 2025-08-21: Improve error handling
 - 2025-08-21: Bump patch version
 - 2025-08-20: perf(utils): update env example
