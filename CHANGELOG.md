@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-29: refactor(ui): add session handling
 - 2025-08-25: fix(auth): fix memory leak in worker
 - 2025-08-22: chore(ui): fix pagination offset
 - 2025-08-21: Improve error handling
