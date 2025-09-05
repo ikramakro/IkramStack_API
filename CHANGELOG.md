@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-05: fix(routes): add rate limiting
 - 2025-09-05: test(ui): fix CORS headers
 - 2025-09-04: Improve code readability
 - 2025-08-29: refactor(ui): add session handling
