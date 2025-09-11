@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-11: refactor(middleware): sync schema changes
 - 2025-09-11: test(routes): fix CORS headers
 - 2025-09-05: fix(routes): add rate limiting
 - 2025-09-05: test(ui): fix CORS headers
