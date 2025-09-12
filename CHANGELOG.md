@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-12: Improve code readability
 - 2025-09-12: docs(routes): fix memory leak in worker
 - 2025-09-11: refactor(middleware): sync schema changes
 - 2025-09-11: test(routes): fix CORS headers
