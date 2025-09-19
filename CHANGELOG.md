@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-19: style(routes): add rate limiting
 - 2025-09-16: Handle empty state
 - 2025-09-12: Improve code readability
 - 2025-09-12: docs(routes): fix memory leak in worker
