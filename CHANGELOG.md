@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-10-14: fix(middleware): update cache TTL
 - 2025-10-12: docs(middleware): update package lock
 - 2025-10-09: Fix validation edge case
 - 2025-09-19: style(db): fix memory leak in worker
