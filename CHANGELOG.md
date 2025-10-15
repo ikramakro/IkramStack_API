@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-10-15: feat(middleware): fix pagination offset
 - 2025-10-14: Add input sanitization
 - 2025-10-14: chore(config): remove dead code
 - 2025-10-14: fix(middleware): update cache TTL
