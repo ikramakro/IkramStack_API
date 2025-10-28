@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-10-28: docs(middleware): fix memory leak in worker
 - 2025-10-22: Improve code readability
 - 2025-10-22: chore(auth): sync schema changes
 - 2025-10-15: feat(middleware): fix pagination offset
