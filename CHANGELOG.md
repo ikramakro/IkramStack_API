@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-05: Add input sanitization
 - 2025-11-04: feat(api): update cache TTL
 - 2025-11-03: Minor code cleanup
 - 2025-11-03: docs(middleware): resolve timeout on slow networks
