@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-15: perf(middleware): add validation middleware
 - 2025-11-14: perf(core): correct response status codes
 - 2025-11-10: fix(core): fix CORS headers
 - 2025-11-08: Add input sanitization
