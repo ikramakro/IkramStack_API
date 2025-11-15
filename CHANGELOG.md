@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-15: style(core): resolve timeout on slow networks
 - 2025-11-15: feat(ui): correct response status codes
 - 2025-11-15: perf(middleware): add validation middleware
 - 2025-11-14: perf(core): correct response status codes
