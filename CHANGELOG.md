@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-27: Update environment config
 - 2025-11-26: docs(middleware): update env example
 - 2025-11-15: style(core): resolve timeout on slow networks
 - 2025-11-15: feat(ui): correct response status codes
