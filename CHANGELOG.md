@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-04: Fix validation edge case
 - 2025-11-28: feat(ui): fix memory leak in worker
 - 2025-11-27: Update environment config
 - 2025-11-26: docs(middleware): update env example
