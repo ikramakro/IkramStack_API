@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-14: Add input sanitization
 - 2025-12-14: refactor(middleware): update env example
 - 2025-12-06: perf(ui): handle empty payload
 - 2025-12-04: Fix validation edge case
