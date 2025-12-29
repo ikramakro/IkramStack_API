@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-29: Resolve merge conflict
 - 2025-12-14: perf(core): fix CORS headers
 - 2025-12-14: Add input sanitization
 - 2025-12-14: refactor(middleware): update env example
