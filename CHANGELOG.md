@@ -1,8 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2025-12-28: refactor(routes): fix pagination offset
-- 2026-01-07: feat(utils): handle empty payload
 - 2026-01-17: chore(utils): update package lock
 - 2026-01-15: perf(api): sync schema changes
 - 2026-01-24: perf(ui): sync schema changes
