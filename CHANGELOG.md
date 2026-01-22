@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-01-22: Patch security issue
 - 2026-01-19: chore(ui): update env example
 - 2026-02-02: Clean up unused imports
 - 2026-02-01: refactor(routes): sync schema changes
