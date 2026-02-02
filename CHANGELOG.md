@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-02-01: refactor(routes): sync schema changes
 - 2026-02-12: feat(core): resolve timeout on slow networks
 - 2026-02-10: fix(api): handle empty payload
 - 2026-02-20: feat(utils): remove dead code
