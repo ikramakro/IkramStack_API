@@ -1,10 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-02-02: Clean up unused imports
-- 2026-02-01: refactor(routes): sync schema changes
-- 2026-02-12: feat(core): resolve timeout on slow networks
-- 2026-02-10: fix(api): handle empty payload
 - 2026-02-20: feat(utils): remove dead code
 - 2026-02-18: chore(middleware): sync schema changes
 - 2026-02-16: chore(config): update env example
