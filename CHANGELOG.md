@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+- 2026-02-20: feat(utils): remove dead code
+- 2026-02-18: chore(middleware): sync schema changes
 - 2026-02-16: chore(config): update env example
 - 2026-02-27: docs(utils): update env example
 - 2026-03-20: refactor(utils): add validation middleware
