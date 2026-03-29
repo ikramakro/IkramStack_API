@@ -1,11 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-03-25: chore(db): improve error messages
-- 2026-03-24: test(routes): improve error messages
-- 2026-03-23: chore(middleware): fix CORS headers
-- 2026-04-03: refactor(routes): resolve timeout on slow networks
-- 2026-03-31: Add missing null check
 - 2026-04-07: fix(db): improve error messages
 - 2026-05-01: Sync lockfile
 - 2026-04-28: Improve code readability
