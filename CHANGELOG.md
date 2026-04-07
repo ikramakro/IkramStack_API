@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-04-07: fix(db): improve error messages
 - 2026-05-01: Sync lockfile
 - 2026-04-28: Improve code readability
 - 2026-05-09: style(config): handle empty payload
