@@ -1,8 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-05-09: style(config): handle empty payload
-- 2026-05-12: feat(auth): fix pagination offset
 - 2026-05-10: Adjust API response format
 - 2026-05-19: style(middleware): add session handling
 - 2026-05-25: Fix date parsing bug
