@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-05-19: style(middleware): add session handling
 - 2026-05-25: Fix date parsing bug
 - 2026-05-24: Fix race condition
 - 2026-06-04: Clean up unused imports
