@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-06-04: Clean up unused imports
 - 2026-06-02: Patch security issue
 - 2026-05-31: chore(middleware): update env example
 - 2025-07-29: refactor(core): improve error messages
